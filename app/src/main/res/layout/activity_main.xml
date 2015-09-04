@@ -17,7 +17,7 @@
         android:layout_alignParentStart="true"
         android:layout_centerVertical="true"/>
 
-    <FrameLayout
+    <sketch.km.com.etchasketch.view.CanvasView
         android:id="@+id/canvas"
         android:layout_toEndOf="@id/horizontalBtn"
         android:layout_toStartOf="@+id/verticalBtn"
